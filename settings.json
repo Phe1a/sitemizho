@@ -1,0 +1,11 @@
+{
+  "prefix" : "!",
+  "owner" : ["1004393893590208532,927245498564374568,561628793534677004"],
+  "clientid" : "1015328591850000435",
+  "clientsecret" : "VBdzslhbqwctkpW-kM77EHc-56wyIg7P",
+  "clientcallback" : "",
+  "mongoURL" : "mongodb+srv://Phela123:SpaceApo1@cluster0.9mfrrhr.mongodb.net/?retryWrites=true&w=majority",
+  "serverID": "995307861481619517",
+  "footer": "GLOBAL FOOTER",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
